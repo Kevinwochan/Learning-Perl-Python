@@ -1,0 +1,1243 @@
+album name is: Triple J Hottest 100, 1993
+song is music/Triple J Hottest 100, 1993/1 - Asshole - Denis Leary.mp3
+title is Asshole
+artist is Denis Leary
+year is 1993
+track is 1
+song is music/Triple J Hottest 100, 1993/10 - Stone Me Into the Groove - Atomic Swing.mp3
+title is Stone Me Into the Groove
+artist is Atomic Swing
+year is 1993
+track is 10
+song is music/Triple J Hottest 100, 1993/2 - Creep - Radiohead.mp3
+title is Creep
+artist is Radiohead
+year is 1993
+track is 2
+song is music/Triple J Hottest 100, 1993/3 - Linger - The Cranberries.mp3
+title is Linger
+artist is The Cranberries
+year is 1993
+track is 3
+song is music/Triple J Hottest 100, 1993/4 - No Rain - Blind Melon.mp3
+title is No Rain
+artist is Blind Melon
+year is 1993
+track is 4
+song is music/Triple J Hottest 100, 1993/5 - Cannonball - The Breeders.mp3
+title is Cannonball
+artist is The Breeders
+year is 1993
+track is 5
+song is music/Triple J Hottest 100, 1993/6 - Killing in the Name - Rage Against The Machine.mp3
+title is Killing in the Name
+artist is Rage Against The Machine
+year is 1993
+track is 6
+song is music/Triple J Hottest 100, 1993/7 - Lemon - U2.mp3
+title is Lemon
+artist is U2
+year is 1993
+track is 7
+song is music/Triple J Hottest 100, 1993/8 - Go - Pearl Jam.mp3
+title is Go
+artist is Pearl Jam
+year is 1993
+track is 8
+song is music/Triple J Hottest 100, 1993/9 - The Honeymoon Is Over - The Cruel Sea.mp3
+title is The Honeymoon Is Over
+artist is The Cruel Sea
+year is 1993
+track is 9
+album name is: Triple J Hottest 100, 1994
+song is music/Triple J Hottest 100, 1994/1 - Zombie - The Cranberries.mp3
+title is Zombie
+artist is The Cranberries
+year is 1994
+track is 1
+song is music/Triple J Hottest 100, 1994/10 - Dead Eyes Opened - Severed Heads.mp3
+title is Dead Eyes Opened
+artist is Severed Heads
+year is 1994
+track is 10
+song is music/Triple J Hottest 100, 1994/2 - Closer - Nine Inch Nails.mp3
+title is Closer
+artist is Nine Inch Nails
+year is 1994
+track is 2
+song is music/Triple J Hottest 100, 1994/3 - Self Esteem - The Offspring.mp3
+title is Self Esteem
+artist is The Offspring
+year is 1994
+track is 3
+song is music/Triple J Hottest 100, 1994/4 - Come Out and Play - The Offspring.mp3
+title is Come Out and Play
+artist is The Offspring
+year is 1994
+track is 4
+song is music/Triple J Hottest 100, 1994/5 - Tomorrow - Silverchair.mp3
+title is Tomorrow
+artist is Silverchair
+year is 1994
+track is 5
+song is music/Triple J Hottest 100, 1994/6 - Seether - Veruca Salt.mp3
+title is Seether
+artist is Veruca Salt
+year is 1994
+track is 6
+song is music/Triple J Hottest 100, 1994/7 - About a Girl - Nirvana.mp3
+title is About a Girl
+artist is Nirvana
+year is 1994
+track is 7
+song is music/Triple J Hottest 100, 1994/8 - Coma - Max Sharam.mp3
+title is Coma
+artist is Max Sharam
+year is 1994
+track is 8
+song is music/Triple J Hottest 100, 1994/9 - If I Only Knew - Tom Jones.mp3
+title is If I Only Knew
+artist is Tom Jones
+year is 1994
+track is 9
+album name is: Triple J Hottest 100, 1995
+song is music/Triple J Hottest 100, 1995/1 - Wonderwall - Oasis.mp3
+title is Wonderwall
+artist is Oasis
+year is 1995
+track is 1
+song is music/Triple J Hottest 100, 1995/10 - Greg! The Stop Sign!! - TISM.mp3
+title is Greg! The Stop Sign!!
+artist is TISM
+year is 1995
+track is 10
+song is music/Triple J Hottest 100, 1995/2 - Bullet with Butterfly Wings - The Smashing Pumpkins.mp3
+title is Bullet with Butterfly Wings
+artist is The Smashing Pumpkins
+year is 1995
+track is 2
+song is music/Triple J Hottest 100, 1995/3 - Gangsta's Paradise - Coolio.mp3
+title is Gangsta's Paradise
+artist is Coolio
+year is 1995
+track is 3
+song is music/Triple J Hottest 100, 1995/4 - Kitty - The Presidents of the United States of America.mp3
+title is Kitty
+artist is The Presidents of the United States of America
+year is 1995
+track is 4
+song is music/Triple J Hottest 100, 1995/5 - It's Oh So Quiet - Björk.mp3
+title is It's Oh So Quiet
+artist is Björk
+year is 1995
+track is 5
+song is music/Triple J Hottest 100, 1995/6 - Heroin Girl - Everclear.mp3
+title is Heroin Girl
+artist is Everclear
+year is 1995
+track is 6
+song is music/Triple J Hottest 100, 1995/7 - Apartment - Custard.mp3
+title is Apartment
+artist is Custard
+year is 1995
+track is 7
+song is music/Triple J Hottest 100, 1995/8 - Where the Wild Roses Grow - Nick Cave and the Bad Seeds and Kylie Minogue.mp3
+title is Where the Wild Roses Grow
+artist is Nick Cave and the Bad Seeds and Kylie Minogue
+year is 1995
+track is 8
+song is music/Triple J Hottest 100, 1995/9 - (He'll Never Be An) Ol' Man River - TISM.mp3
+title is (He'll Never Be An) Ol' Man River
+artist is TISM
+year is 1995
+track is 9
+album name is: Triple J Hottest 100, 1996
+song is music/Triple J Hottest 100, 1996/1 - Buy Me a Pony - Spiderbait.mp3
+title is Buy Me a Pony
+artist is Spiderbait
+year is 1996
+track is 1
+song is music/Triple J Hottest 100, 1996/10 - You're Gorgeous - Babybird.mp3
+title is You're Gorgeous
+artist is Babybird
+year is 1996
+track is 10
+song is music/Triple J Hottest 100, 1996/2 - Stinkfist - Tool.mp3
+title is Stinkfist
+artist is Tool
+year is 1996
+track is 2
+song is music/Triple J Hottest 100, 1996/3 - Underground - Ben Folds Five.mp3
+title is Underground
+artist is Ben Folds Five
+year is 1996
+track is 3
+song is music/Triple J Hottest 100, 1996/4 - Pepper - Butthole Surfers.mp3
+title is Pepper
+artist is Butthole Surfers
+year is 1996
+track is 4
+song is music/Triple J Hottest 100, 1996/5 - Glycerine - Bush.mp3
+title is Glycerine
+artist is Bush
+year is 1996
+track is 5
+song is music/Triple J Hottest 100, 1996/6 - Pick You Up - Powderfinger.mp3
+title is Pick You Up
+artist is Powderfinger
+year is 1996
+track is 6
+song is music/Triple J Hottest 100, 1996/7 - Breathe - The Prodigy.mp3
+title is Breathe
+artist is The Prodigy
+year is 1996
+track is 7
+song is music/Triple J Hottest 100, 1996/8 - Ballad of the Skeletons - Allen Ginsberg.mp3
+title is Ballad of the Skeletons
+artist is Allen Ginsberg
+year is 1996
+track is 8
+song is music/Triple J Hottest 100, 1996/9 - El Scorcho - Weezer.mp3
+title is El Scorcho
+artist is Weezer
+year is 1996
+track is 9
+album name is: Triple J Hottest 100, 1997
+song is music/Triple J Hottest 100, 1997/1 - No Aphrodisiac - The Whitlams.mp3
+title is No Aphrodisiac
+artist is The Whitlams
+year is 1997
+track is 1
+song is music/Triple J Hottest 100, 1997/10 - Leaving Home - Jebediah.mp3
+title is Leaving Home
+artist is Jebediah
+year is 1997
+track is 10
+song is music/Triple J Hottest 100, 1997/2 - Song 2 - Blur.mp3
+title is Song 2
+artist is Blur
+year is 1997
+track is 2
+song is music/Triple J Hottest 100, 1997/3 - Tubthumping - Chumbawamba.mp3
+title is Tubthumping
+artist is Chumbawamba
+year is 1997
+track is 3
+song is music/Triple J Hottest 100, 1997/4 - Bitter Sweet Symphony - The Verve.mp3
+title is Bitter Sweet Symphony
+artist is The Verve
+year is 1997
+track is 4
+song is music/Triple J Hottest 100, 1997/5 - Paranoid Android - Radiohead.mp3
+title is Paranoid Android
+artist is Radiohead
+year is 1997
+track is 5
+song is music/Triple J Hottest 100, 1997/6 - Dammit - Blink 182.mp3
+title is Dammit
+artist is Blink 182
+year is 1997
+track is 6
+song is music/Triple J Hottest 100, 1997/7 - Back Door Man - Pauline Pantsdown.mp3
+title is Back Door Man
+artist is Pauline Pantsdown
+year is 1997
+track is 7
+song is music/Triple J Hottest 100, 1997/8 - The Beautiful People - Marilyn Manson.mp3
+title is The Beautiful People
+artist is Marilyn Manson
+year is 1997
+track is 8
+song is music/Triple J Hottest 100, 1997/9 - Karma Police - Radiohead.mp3
+title is Karma Police
+artist is Radiohead
+year is 1997
+track is 9
+album name is: Triple J Hottest 100, 1998
+song is music/Triple J Hottest 100, 1998/1 - Pretty Fly (for a White Guy) - The Offspring.mp3
+title is Pretty Fly (for a White Guy)
+artist is The Offspring
+year is 1998
+track is 1
+song is music/Triple J Hottest 100, 1998/10 - Save the Day - The Living End.mp3
+title is Save the Day
+artist is The Living End
+year is 1998
+track is 10
+song is music/Triple J Hottest 100, 1998/2 - Cigarettes Will Kill You - Ben Lee.mp3
+title is Cigarettes Will Kill You
+artist is Ben Lee
+year is 1998
+track is 2
+song is music/Triple J Hottest 100, 1998/3 - Girls Like That (Don't Go For Guys Like Us) - Custard.mp3
+title is Girls Like That (Don't Go For Guys Like Us)
+artist is Custard
+year is 1998
+track is 3
+song is music/Triple J Hottest 100, 1998/4 - Celebrity Skin - Hole.mp3
+title is Celebrity Skin
+artist is Hole
+year is 1998
+track is 4
+song is music/Triple J Hottest 100, 1998/5 - Got the Life - KoЯn.mp3
+title is Got the Life
+artist is KoЯn
+year is 1998
+track is 5
+song is music/Triple J Hottest 100, 1998/6 - ! (Song Formerly Known As) - Regurgitator.mp3
+title is ! (Song Formerly Known As)
+artist is Regurgitator
+year is 1998
+track is 6
+song is music/Triple J Hottest 100, 1998/7 - Harpoon - Jebediah.mp3
+title is Harpoon
+artist is Jebediah
+year is 1998
+track is 7
+song is music/Triple J Hottest 100, 1998/8 - The Day You Come - Powderfinger.mp3
+title is The Day You Come
+artist is Powderfinger
+year is 1998
+track is 8
+song is music/Triple J Hottest 100, 1998/9 - Heavy Heart - You Am I.mp3
+title is Heavy Heart
+artist is You Am I
+year is 1998
+track is 9
+album name is: Triple J Hottest 100, 1999
+song is music/Triple J Hottest 100, 1999/1 - These Days - Powderfinger.mp3
+title is These Days
+artist is Powderfinger
+year is 1999
+track is 1
+song is music/Triple J Hottest 100, 1999/10 - Scar Tissue - Red Hot Chili Peppers.mp3
+title is Scar Tissue
+artist is Red Hot Chili Peppers
+year is 1999
+track is 10
+song is music/Triple J Hottest 100, 1999/2 - Weir - Killing Heidi.mp3
+title is Weir
+artist is Killing Heidi
+year is 1999
+track is 2
+song is music/Triple J Hottest 100, 1999/3 - You Shit Me to Tears - The Tenants.mp3
+title is You Shit Me to Tears
+artist is The Tenants
+year is 1999
+track is 3
+song is music/Triple J Hottest 100, 1999/4 - Praise You - Fatboy Slim.mp3
+title is Praise You
+artist is Fatboy Slim
+year is 1999
+track is 4
+song is music/Triple J Hottest 100, 1999/5 - Every You Every Me - Placebo.mp3
+title is Every You Every Me
+artist is Placebo
+year is 1999
+track is 5
+song is music/Triple J Hottest 100, 1999/6 - The Bad Touch - The Bloodhound Gang.mp3
+title is The Bad Touch
+artist is The Bloodhound Gang
+year is 1999
+track is 6
+song is music/Triple J Hottest 100, 1999/7 - Guerrilla Radio - Rage Against The Machine.mp3
+title is Guerrilla Radio
+artist is Rage Against The Machine
+year is 1999
+track is 7
+song is music/Triple J Hottest 100, 1999/8 - Nookie - Limp Bizkit.mp3
+title is Nookie
+artist is Limp Bizkit
+year is 1999
+track is 8
+song is music/Triple J Hottest 100, 1999/9 - Last Kiss - Pearl Jam.mp3
+title is Last Kiss
+artist is Pearl Jam
+year is 1999
+track is 9
+album name is: Triple J Hottest 100, 2000
+song is music/Triple J Hottest 100, 2000/1 - My Happiness - Powderfinger.mp3
+title is My Happiness
+artist is Powderfinger
+year is 2000
+track is 1
+song is music/Triple J Hottest 100, 2000/10 - Bohemian Like You - The Dandy Warhols.mp3
+title is Bohemian Like You
+artist is The Dandy Warhols
+year is 2000
+track is 10
+song is music/Triple J Hottest 100, 2000/2 - Beautiful Day - U2.mp3
+title is Beautiful Day
+artist is U2
+year is 2000
+track is 2
+song is music/Triple J Hottest 100, 2000/3 - My Kind of Scene - Powderfinger.mp3
+title is My Kind of Scene
+artist is Powderfinger
+year is 2000
+track is 3
+song is music/Triple J Hottest 100, 2000/4 - Teenage Dirtbag - Wheatus.mp3
+title is Teenage Dirtbag
+artist is Wheatus
+year is 2000
+track is 4
+song is music/Triple J Hottest 100, 2000/5 - Yellow - Coldplay.mp3
+title is Yellow
+artist is Coldplay
+year is 2000
+track is 5
+song is music/Triple J Hottest 100, 2000/6 - Frontier Psychiatrist - The Avalanches.mp3
+title is Frontier Psychiatrist
+artist is The Avalanches
+year is 2000
+track is 6
+song is music/Triple J Hottest 100, 2000/7 - Californication - Red Hot Chili Peppers.mp3
+title is Californication
+artist is Red Hot Chili Peppers
+year is 2000
+track is 7
+song is music/Triple J Hottest 100, 2000/8 - Generator - Foo Fighters.mp3
+title is Generator
+artist is Foo Fighters
+year is 2000
+track is 8
+song is music/Triple J Hottest 100, 2000/9 - Every Fucking City - Paul Kelly.mp3
+title is Every Fucking City
+artist is Paul Kelly
+year is 2000
+track is 9
+album name is: Triple J Hottest 100, 2001
+song is music/Triple J Hottest 100, 2001/1 - Amazing - Alex Lloyd.mp3
+title is Amazing
+artist is Alex Lloyd
+year is 2001
+track is 1
+song is music/Triple J Hottest 100, 2001/10 - Short Skirt-Long Jacket - Cake.mp3
+title is Short Skirt-Long Jacket
+artist is Cake
+year is 2001
+track is 10
+song is music/Triple J Hottest 100, 2001/2 - Monsters - Something for Kate.mp3
+title is Monsters
+artist is Something for Kate
+year is 2001
+track is 2
+song is music/Triple J Hottest 100, 2001/3 - Chop Suey! - System of a Down.mp3
+title is Chop Suey!
+artist is System of a Down
+year is 2001
+track is 3
+song is music/Triple J Hottest 100, 2001/4 - Where's Your Head At? - Basement Jaxx.mp3
+title is Where's Your Head At?
+artist is Basement Jaxx
+year is 2001
+track is 4
+song is music/Triple J Hottest 100, 2001/5 - Betterman - John Butler Trio.mp3
+title is Betterman
+artist is John Butler Trio
+year is 2001
+track is 5
+song is music/Triple J Hottest 100, 2001/6 - Smooth Criminal - Alien Ant Farm.mp3
+title is Smooth Criminal
+artist is Alien Ant Farm
+year is 2001
+track is 6
+song is music/Triple J Hottest 100, 2001/7 - Island in the Sun - Weezer.mp3
+title is Island in the Sun
+artist is Weezer
+year is 2001
+track is 7
+song is music/Triple J Hottest 100, 2001/8 - Since I Left You - The Avalanches.mp3
+title is Since I Left You
+artist is The Avalanches
+year is 2001
+track is 8
+song is music/Triple J Hottest 100, 2001/9 - Clint Eastwood (song) - Gorillaz featuring Del tha Funkee Homosapien.mp3
+title is Clint Eastwood (song)
+artist is Gorillaz featuring Del tha Funkee Homosapien
+year is 2001
+track is 9
+album name is: Triple J Hottest 100, 2002
+song is music/Triple J Hottest 100, 2002/1 - No One Knows - Queens of the Stone Age.mp3
+title is No One Knows
+artist is Queens of the Stone Age
+year is 2002
+track is 1
+song is music/Triple J Hottest 100, 2002/10 - The Greatest View - Silverchair.mp3
+title is The Greatest View
+artist is Silverchair
+year is 2002
+track is 10
+song is music/Triple J Hottest 100, 2002/2 - Chemical Heart - Grinspoon.mp3
+title is Chemical Heart
+artist is Grinspoon
+year is 2002
+track is 2
+song is music/Triple J Hottest 100, 2002/3 - London Still - The Waifs.mp3
+title is London Still
+artist is The Waifs
+year is 2002
+track is 3
+song is music/Triple J Hottest 100, 2002/4 - Karma - 1200 Techniques.mp3
+title is Karma
+artist is 1200 Techniques
+year is 2002
+track is 4
+song is music/Triple J Hottest 100, 2002/5 - Get Free - The Vines.mp3
+title is Get Free
+artist is The Vines
+year is 2002
+track is 5
+song is music/Triple J Hottest 100, 2002/6 - Pussytown - Machine Gun Fellatio.mp3
+title is Pussytown
+artist is Machine Gun Fellatio
+year is 2002
+track is 6
+song is music/Triple J Hottest 100, 2002/7 - Lose Yourself - Eminem.mp3
+title is Lose Yourself
+artist is Eminem
+year is 2002
+track is 7
+song is music/Triple J Hottest 100, 2002/8 - Rollercoaster - Machine Gun Fellatio.mp3
+title is Rollercoaster
+artist is Machine Gun Fellatio
+year is 2002
+track is 8
+song is music/Triple J Hottest 100, 2002/9 - By the Way - Red Hot Chili Peppers.mp3
+title is By the Way
+artist is Red Hot Chili Peppers
+year is 2002
+track is 9
+album name is: Triple J Hottest 100, 2003
+song is music/Triple J Hottest 100, 2003/1 - Are You Gonna Be My Girl - Jet.mp3
+title is Are You Gonna Be My Girl
+artist is Jet
+year is 2003
+track is 1
+song is music/Triple J Hottest 100, 2003/10 - Love Your Way - Powderfinger.mp3
+title is Love Your Way
+artist is Powderfinger
+year is 2003
+track is 10
+song is music/Triple J Hottest 100, 2003/2 - Hey Ya! - OutKast.mp3
+title is Hey Ya!
+artist is OutKast
+year is 2003
+track is 2
+song is music/Triple J Hottest 100, 2003/3 - Seven Nation Army - The White Stripes.mp3
+title is Seven Nation Army
+artist is The White Stripes
+year is 2003
+track is 3
+song is music/Triple J Hottest 100, 2003/4 - (Baby I've Got You) On My Mind - Powderfinger.mp3
+title is (Baby I've Got You) On My Mind
+artist is Powderfinger
+year is 2003
+track is 4
+song is music/Triple J Hottest 100, 2003/5 - Clocks (Röyksopp Remix) - Coldplay.mp3
+title is Clocks (Röyksopp Remix)
+artist is Coldplay
+year is 2003
+track is 5
+song is music/Triple J Hottest 100, 2003/6 - Hello - The Cat Empire.mp3
+title is Hello
+artist is The Cat Empire
+year is 2003
+track is 6
+song is music/Triple J Hottest 100, 2003/7 - Sunsets - Powderfinger.mp3
+title is Sunsets
+artist is Powderfinger
+year is 2003
+track is 7
+song is music/Triple J Hottest 100, 2003/8 - Zebra - John Butler Trio.mp3
+title is Zebra
+artist is John Butler Trio
+year is 2003
+track is 8
+song is music/Triple J Hottest 100, 2003/9 - The Nosebleed Section - Hilltop Hoods.mp3
+title is The Nosebleed Section
+artist is Hilltop Hoods
+year is 2003
+track is 9
+album name is: Triple J Hottest 100, 2004
+song is music/Triple J Hottest 100, 2004/1 - Take Me Out - Franz Ferdinand.mp3
+title is Take Me Out
+artist is Franz Ferdinand
+year is 2004
+track is 1
+song is music/Triple J Hottest 100, 2004/10 - Jolene (live) - The White Stripes.mp3
+title is Jolene (live)
+artist is The White Stripes
+year is 2004
+track is 10
+song is music/Triple J Hottest 100, 2004/2 - Scar - Missy Higgins.mp3
+title is Scar
+artist is Missy Higgins
+year is 2004
+track is 2
+song is music/Triple J Hottest 100, 2004/3 - From the Sea - Eskimo Joe.mp3
+title is From the Sea
+artist is Eskimo Joe
+year is 2004
+track is 3
+song is music/Triple J Hottest 100, 2004/4 - Somebody Told Me - The Killers.mp3
+title is Somebody Told Me
+artist is The Killers
+year is 2004
+track is 4
+song is music/Triple J Hottest 100, 2004/5 - Black Betty - Spiderbait.mp3
+title is Black Betty
+artist is Spiderbait
+year is 2004
+track is 5
+song is music/Triple J Hottest 100, 2004/6 - Ten Days - Missy Higgins.mp3
+title is Ten Days
+artist is Missy Higgins
+year is 2004
+track is 6
+song is music/Triple J Hottest 100, 2004/7 - Something's Gotta Give - John Butler Trio.mp3
+title is Something's Gotta Give
+artist is John Butler Trio
+year is 2004
+track is 7
+song is music/Triple J Hottest 100, 2004/8 - Beautiful to Me - Little Birdy.mp3
+title is Beautiful to Me
+artist is Little Birdy
+year is 2004
+track is 8
+song is music/Triple J Hottest 100, 2004/9 - Bless My Soul - Powderfinger.mp3
+title is Bless My Soul
+artist is Powderfinger
+year is 2004
+track is 9
+album name is: Triple J Hottest 100, 2005
+song is music/Triple J Hottest 100, 2005/1 - Wish You Well - Bernard Fanning.mp3
+title is Wish You Well
+artist is Bernard Fanning
+year is 2005
+track is 1
+song is music/Triple J Hottest 100, 2005/10 - Do You Want To - Franz Ferdinand.mp3
+title is Do You Want To
+artist is Franz Ferdinand
+year is 2005
+track is 10
+song is music/Triple J Hottest 100, 2005/2 - Catch My Disease - Ben Lee.mp3
+title is Catch My Disease
+artist is Ben Lee
+year is 2005
+track is 2
+song is music/Triple J Hottest 100, 2005/3 - Feel Good Inc. - Gorillaz featuring De La Soul.mp3
+title is Feel Good Inc.
+artist is Gorillaz featuring De La Soul
+year is 2005
+track is 3
+song is music/Triple J Hottest 100, 2005/4 - Best of You - Foo Fighters.mp3
+title is Best of You
+artist is Foo Fighters
+year is 2005
+track is 4
+song is music/Triple J Hottest 100, 2005/5 - DARE - Gorillaz featuring Shaun Ryder.mp3
+title is DARE
+artist is Gorillaz featuring Shaun Ryder
+year is 2005
+track is 5
+song is music/Triple J Hottest 100, 2005/6 - Mind's Eye - Wolfmother.mp3
+title is Mind's Eye
+artist is Wolfmother
+year is 2005
+track is 6
+song is music/Triple J Hottest 100, 2005/7 - My Doorbell - The White Stripes.mp3
+title is My Doorbell
+artist is The White Stripes
+year is 2005
+track is 7
+song is music/Triple J Hottest 100, 2005/8 - O Yeah - End of Fashion.mp3
+title is O Yeah
+artist is End of Fashion
+year is 2005
+track is 8
+song is music/Triple J Hottest 100, 2005/9 - Joker & the Thief - Wolfmother.mp3
+title is Joker & the Thief
+artist is Wolfmother
+year is 2005
+track is 9
+album name is: Triple J Hottest 100, 2006
+song is music/Triple J Hottest 100, 2006/1 - One Crowded Hour - Augie March.mp3
+title is One Crowded Hour
+artist is Augie March
+year is 2006
+track is 1
+song is music/Triple J Hottest 100, 2006/10 - 19-20-20 - The Grates.mp3
+title is 19-20-20
+artist is The Grates
+year is 2006
+track is 10
+song is music/Triple J Hottest 100, 2006/2 - Black Fingernails, Red Wine - Eskimo Joe.mp3
+title is Black Fingernails, Red Wine
+artist is Eskimo Joe
+year is 2006
+track is 2
+song is music/Triple J Hottest 100, 2006/3 - The Hard Road - Hilltop Hoods.mp3
+title is The Hard Road
+artist is Hilltop Hoods
+year is 2006
+track is 3
+song is music/Triple J Hottest 100, 2006/4 - When You Were Young - The Killers.mp3
+title is When You Were Young
+artist is The Killers
+year is 2006
+track is 4
+song is music/Triple J Hottest 100, 2006/5 - I Don't Feel Like Dancin' - Scissor Sisters.mp3
+title is I Don't Feel Like Dancin'
+artist is Scissor Sisters
+year is 2006
+track is 5
+song is music/Triple J Hottest 100, 2006/6 - Crazy - Gnarls Barkley.mp3
+title is Crazy
+artist is Gnarls Barkley
+year is 2006
+track is 6
+song is music/Triple J Hottest 100, 2006/7 - Chasing Cars - Snow Patrol.mp3
+title is Chasing Cars
+artist is Snow Patrol
+year is 2006
+track is 7
+song is music/Triple J Hottest 100, 2006/8 - Hearts a Mess - Gotye.mp3
+title is Hearts a Mess
+artist is Gotye
+year is 2006
+track is 8
+song is music/Triple J Hottest 100, 2006/9 - Starlight - Muse.mp3
+title is Starlight
+artist is Muse
+year is 2006
+track is 9
+album name is: Triple J Hottest 100, 2007
+song is music/Triple J Hottest 100, 2007/1 - Knights of Cydonia - Muse.mp3
+title is Knights of Cydonia
+artist is Muse
+year is 2007
+track is 1
+song is music/Triple J Hottest 100, 2007/10 - Don't Fight It - The Panics.mp3
+title is Don't Fight It
+artist is The Panics
+year is 2007
+track is 10
+song is music/Triple J Hottest 100, 2007/2 - Straight Lines - Silverchair.mp3
+title is Straight Lines
+artist is Silverchair
+year is 2007
+track is 2
+song is music/Triple J Hottest 100, 2007/3 - On Call - Kings of Leon.mp3
+title is On Call
+artist is Kings of Leon
+year is 2007
+track is 3
+song is music/Triple J Hottest 100, 2007/4 - Better Than - John Butler Trio.mp3
+title is Better Than
+artist is John Butler Trio
+year is 2007
+track is 4
+song is music/Triple J Hottest 100, 2007/5 - This Heart Attack - Faker.mp3
+title is This Heart Attack
+artist is Faker
+year is 2007
+track is 5
+song is music/Triple J Hottest 100, 2007/6 - The Pretender - Foo Fighters.mp3
+title is The Pretender
+artist is Foo Fighters
+year is 2007
+track is 6
+song is music/Triple J Hottest 100, 2007/7 - Harder, Better, Faster, Stronger (Alive 2007) - Daft Punk.mp3
+title is Harder, Better, Faster, Stronger (Alive 2007)
+artist is Daft Punk
+year is 2007
+track is 7
+song is music/Triple J Hottest 100, 2007/8 - Hang Me Up to Dry - Cold War Kids.mp3
+title is Hang Me Up to Dry
+artist is Cold War Kids
+year is 2007
+track is 8
+song is music/Triple J Hottest 100, 2007/9 - I'll Kill Her - Soko.mp3
+title is I'll Kill Her
+artist is Soko
+year is 2007
+track is 9
+album name is: Triple J Hottest 100, 2008
+song is music/Triple J Hottest 100, 2008/1 - Sex on Fire - Kings of Leon.mp3
+title is Sex on Fire
+artist is Kings of Leon
+year is 2008
+track is 1
+song is music/Triple J Hottest 100, 2008/10 - Jimmy Recard - Drapht.mp3
+title is Jimmy Recard
+artist is Drapht
+year is 2008
+track is 10
+song is music/Triple J Hottest 100, 2008/2 - Electric Feel - MGMT.mp3
+title is Electric Feel
+artist is MGMT
+year is 2008
+track is 2
+song is music/Triple J Hottest 100, 2008/3 - Use Somebody - Kings of Leon.mp3
+title is Use Somebody
+artist is Kings of Leon
+year is 2008
+track is 3
+song is music/Triple J Hottest 100, 2008/4 - Walking on a Dream - Empire of the Sun.mp3
+title is Walking on a Dream
+artist is Empire of the Sun
+year is 2008
+track is 4
+song is music/Triple J Hottest 100, 2008/5 - Kids - MGMT.mp3
+title is Kids
+artist is MGMT
+year is 2008
+track is 5
+song is music/Triple J Hottest 100, 2008/6 - Talk Like That - The Presets.mp3
+title is Talk Like That
+artist is The Presets
+year is 2008
+track is 6
+song is music/Triple J Hottest 100, 2008/7 - The Festival Song - Pez Featuring 360 and Hailey Cramer.mp3
+title is The Festival Song
+artist is Pez Featuring 360 and Hailey Cramer
+year is 2008
+track is 7
+song is music/Triple J Hottest 100, 2008/8 - This Boy's in Love - The Presets.mp3
+title is This Boy's in Love
+artist is The Presets
+year is 2008
+track is 8
+song is music/Triple J Hottest 100, 2008/9 - That's Not My Name - The Ting Tings.mp3
+title is That's Not My Name
+artist is The Ting Tings
+year is 2008
+track is 9
+album name is: Triple J Hottest 100, 2009
+song is music/Triple J Hottest 100, 2009/1 - Little Lion Man - Mumford & Sons.mp3
+title is Little Lion Man
+artist is Mumford & Sons
+year is 2009
+track is 1
+song is music/Triple J Hottest 100, 2009/10 - Dog Days Are Over - Florence and the Machine.mp3
+title is Dog Days Are Over
+artist is Florence and the Machine
+year is 2009
+track is 10
+song is music/Triple J Hottest 100, 2009/2 - Parlez Vous Francais? - Art vs. Science.mp3
+title is Parlez Vous Francais?
+artist is Art vs. Science
+year is 2009
+track is 2
+song is music/Triple J Hottest 100, 2009/3 - Chase That Feeling - Hilltop Hoods.mp3
+title is Chase That Feeling
+artist is Hilltop Hoods
+year is 2009
+track is 3
+song is music/Triple J Hottest 100, 2009/4 - Lisztomania - Phoenix.mp3
+title is Lisztomania
+artist is Phoenix
+year is 2009
+track is 4
+song is music/Triple J Hottest 100, 2009/5 - Broken Leg - Bluejuice.mp3
+title is Broken Leg
+artist is Bluejuice
+year is 2009
+track is 5
+song is music/Triple J Hottest 100, 2009/6 - Bulletproof - La Roux.mp3
+title is Bulletproof
+artist is La Roux
+year is 2009
+track is 6
+song is music/Triple J Hottest 100, 2009/7 - Coin Laundry - Lisa Mitchell.mp3
+title is Coin Laundry
+artist is Lisa Mitchell
+year is 2009
+track is 7
+song is music/Triple J Hottest 100, 2009/8 - Not Fair - Lily Allen.mp3
+title is Not Fair
+artist is Lily Allen
+year is 2009
+track is 8
+song is music/Triple J Hottest 100, 2009/9 - Uprising - Muse.mp3
+title is Uprising
+artist is Muse
+year is 2009
+track is 9
+album name is: Triple J Hottest 100, 2010
+song is music/Triple J Hottest 100, 2010/1 - Big Jet Plane - Angus & Julia Stone.mp3
+title is Big Jet Plane
+artist is Angus & Julia Stone
+year is 2010
+track is 1
+song is music/Triple J Hottest 100, 2010/10 - Somebody to Love Me - Mark Ronson & The Business Intl. featuring Boy George and Andrew Wyatt.mp3
+title is Somebody to Love Me
+artist is Mark Ronson & The Business Intl. featuring Boy George and Andrew Wyatt
+year is 2010
+track is 10
+song is music/Triple J Hottest 100, 2010/2 - Rock It - Little Red.mp3
+title is Rock It
+artist is Little Red
+year is 2010
+track is 2
+song is music/Triple J Hottest 100, 2010/3 - Dance the Way I Feel - Ou Est Le Swimming Pool.mp3
+title is Dance the Way I Feel
+artist is Ou Est Le Swimming Pool
+year is 2010
+track is 3
+song is music/Triple J Hottest 100, 2010/4 - Plans - Birds of Tokyo.mp3
+title is Plans
+artist is Birds of Tokyo
+year is 2010
+track is 4
+song is music/Triple J Hottest 100, 2010/5 - Fall at Your Feet - Boy & Bear.mp3
+title is Fall at Your Feet
+artist is Boy & Bear
+year is 2010
+track is 5
+song is music/Triple J Hottest 100, 2010/6 - Teenage Crime - Adrian Lux.mp3
+title is Teenage Crime
+artist is Adrian Lux
+year is 2010
+track is 6
+song is music/Triple J Hottest 100, 2010/7 - Fuck You - Cee-Lo Green.mp3
+title is Fuck You
+artist is 
+year is 2010
+track is 7
+id3: Need a filename to work on.
+usage: id3 -[tTaAycg] "value" file1 [file2...]
+       id3 -d file1 [file2...]
+       id3 -l file1 [file2...]
+       id3 -L
+       id3 -v
+ -t   Modifies a Title tag
+ -T   Modifies a Track tag
+ -a   Modifies an Artist tag
+ -A   Modifies an Album tag
+ -y   Modifies a Year tag
+ -c   Modifies a Comment tag
+ -g   Modifies a Genre tag
+ -l   Lists an ID3 tag
+ -L   Lists all genres
+ -R   Uses an rfc822-style format for output
+ -d   Deletes an ID3 tag
+ -h   Displays this help info
+ -v   Prints version info
+song is music/Triple J Hottest 100, 2010/8 - Tokyo (Vampires & Wolves) - The Wombats.mp3
+title is Tokyo (Vampires & Wolves)
+artist is The Wombats
+year is 2010
+track is 8
+song is music/Triple J Hottest 100, 2010/9 - Magic Fountain - Art vs. Science.mp3
+title is Magic Fountain
+artist is Art vs. Science
+year is 2010
+track is 9
+album name is: Triple J Hottest 100, 2011
+song is music/Triple J Hottest 100, 2011/1 - Somebody That I Used to Know - Gotye featuring Kimbra.mp3
+title is Somebody That I Used to Know
+artist is Gotye featuring Kimbra
+year is 2011
+track is 1
+song is music/Triple J Hottest 100, 2011/10 - I Love It - Hilltop Hoods Featuring Sia.mp3
+title is I Love It
+artist is Hilltop Hoods Featuring Sia
+year is 2011
+track is 10
+song is music/Triple J Hottest 100, 2011/2 - Lonely Boy - The Black Keys.mp3
+title is Lonely Boy
+artist is The Black Keys
+year is 2011
+track is 2
+song is music/Triple J Hottest 100, 2011/3 - Brother - Matt Corby.mp3
+title is Brother
+artist is Matt Corby
+year is 2011
+track is 3
+song is music/Triple J Hottest 100, 2011/4 - Feeding Line - Boy & Bear.mp3
+title is Feeding Line
+artist is Boy & Bear
+year is 2011
+track is 4
+song is music/Triple J Hottest 100, 2011/5 - Midnight City - M83.mp3
+title is Midnight City
+artist is M83
+year is 2011
+track is 5
+song is music/Triple J Hottest 100, 2011/6 - Video Games - Lana Del Rey.mp3
+title is Video Games
+artist is Lana Del Rey
+year is 2011
+track is 6
+song is music/Triple J Hottest 100, 2011/7 - Awkward - San Cisco.mp3
+title is Awkward
+artist is San Cisco
+year is 2011
+track is 7
+song is music/Triple J Hottest 100, 2011/8 - Boys Like You - 360 featuring Gossling.mp3
+title is Boys Like You
+artist is 360 featuring Gossling
+year is 2011
+track is 8
+song is music/Triple J Hottest 100, 2011/9 - Endless Summer - The Jezabels.mp3
+title is Endless Summer
+artist is The Jezabels
+year is 2011
+track is 9
+album name is: Triple J Hottest 100, 2012
+song is music/Triple J Hottest 100, 2012/1 - Thrift Shop - Macklemore and Ryan Lewis featuring Wanz.mp3
+title is Thrift Shop
+artist is Macklemore and Ryan Lewis featuring Wanz
+year is 2012
+track is 1
+song is music/Triple J Hottest 100, 2012/10 - My Gun - The Rubens.mp3
+title is My Gun
+artist is The Rubens
+year is 2012
+track is 10
+song is music/Triple J Hottest 100, 2012/2 - Little Talks - Of Monsters and Men.mp3
+title is Little Talks
+artist is Of Monsters and Men
+year is 2012
+track is 2
+song is music/Triple J Hottest 100, 2012/3 - Breezeblocks - Alt-J.mp3
+title is Breezeblocks
+artist is Alt-J
+year is 2012
+track is 3
+song is music/Triple J Hottest 100, 2012/4 - Holdin' On - Flume.mp3
+title is Holdin' On
+artist is Flume
+year is 2012
+track is 4
+song is music/Triple J Hottest 100, 2012/5 - I Will Wait - Mumford & Sons.mp3
+title is I Will Wait
+artist is Mumford & Sons
+year is 2012
+track is 5
+song is music/Triple J Hottest 100, 2012/6 - Get Free - Major Lazer featuring Amber Coffman.mp3
+title is Get Free
+artist is Major Lazer featuring Amber Coffman
+year is 2012
+track is 6
+song is music/Triple J Hottest 100, 2012/7 - Elephant - Tame Impala.mp3
+title is Elephant
+artist is Tame Impala
+year is 2012
+track is 7
+song is music/Triple J Hottest 100, 2012/8 - Lost - Frank Ocean.mp3
+title is Lost
+artist is Frank Ocean
+year is 2012
+track is 8
+song is music/Triple J Hottest 100, 2012/9 - Feels Like We Only Go Backwards - Tame Impala.mp3
+title is Feels Like We Only Go Backwards
+artist is Tame Impala
+year is 2012
+track is 9
+album name is: Triple J Hottest 100, 2013
+song is music/Triple J Hottest 100, 2013/1 - Riptide - Vance Joy.mp3
+title is Riptide
+artist is Vance Joy
+year is 2013
+track is 1
+song is music/Triple J Hottest 100, 2013/10 - Strong - London Grammar.mp3
+title is Strong
+artist is London Grammar
+year is 2013
+track is 10
+song is music/Triple J Hottest 100, 2013/2 - Royals - Lorde.mp3
+title is Royals
+artist is Lorde
+year is 2013
+track is 2
+song is music/Triple J Hottest 100, 2013/3 - Get Lucky - Daft Punk featuring Pharrell.mp3
+title is Get Lucky
+artist is Daft Punk featuring Pharrell
+year is 2013
+track is 3
+song is music/Triple J Hottest 100, 2013/4 - Do I Wanna Know? - Arctic Monkeys.mp3
+title is Do I Wanna Know?
+artist is Arctic Monkeys
+year is 2013
+track is 4
+song is music/Triple J Hottest 100, 2013/5 - Drop the Game - Flume & Chet Faker.mp3
+title is Drop the Game
+artist is Flume & Chet Faker
+year is 2013
+track is 5
+song is music/Triple J Hottest 100, 2013/6 - Why'd You Only Call Me When You're High? - Arctic Monkeys.mp3
+title is Why'd You Only Call Me When You're High?
+artist is Arctic Monkeys
+year is 2013
+track is 6
+song is music/Triple J Hottest 100, 2013/7 - Young and Beautiful - Lana Del Rey.mp3
+title is Young and Beautiful
+artist is Lana Del Rey
+year is 2013
+track is 7
+song is music/Triple J Hottest 100, 2013/8 - Resolution - Matt Corby.mp3
+title is Resolution
+artist is Matt Corby
+year is 2013
+track is 8
+song is music/Triple J Hottest 100, 2013/9 - Is This How You Feel? - The Preatures.mp3
+title is Is This How You Feel?
+artist is The Preatures
+year is 2013
+track is 9
+album name is: Triple J Hottest 100, 2014
+song is music/Triple J Hottest 100, 2014/1 - Talk Is Cheap - Chet Faker.mp3
+title is Talk Is Cheap
+artist is Chet Faker
+year is 2014
+track is 1
+song is music/Triple J Hottest 100, 2014/10 - King and Cross - Ásgeir.mp3
+title is King and Cross
+artist is Ásgeir
+year is 2014
+track is 10
+song is music/Triple J Hottest 100, 2014/2 - High - Peking Duk featuring Nicole Millar.mp3
+title is High
+artist is Peking Duk featuring Nicole Millar
+year is 2014
+track is 2
+song is music/Triple J Hottest 100, 2014/3 - Cosby Sweater - Hilltop Hoods.mp3
+title is Cosby Sweater
+artist is Hilltop Hoods
+year is 2014
+track is 3
+song is music/Triple J Hottest 100, 2014/4 - Stolen Dance - Milky Chance.mp3
+title is Stolen Dance
+artist is Milky Chance
+year is 2014
+track is 4
+song is music/Triple J Hottest 100, 2014/5 - Take Me Over - Peking Duk featuring SAFIA.mp3
+title is Take Me Over
+artist is Peking Duk featuring SAFIA
+year is 2014
+track is 5
+song is music/Triple J Hottest 100, 2014/6 - Uptown Funk - Mark Ronson featuring Bruno Mars.mp3
+title is Uptown Funk
+artist is Mark Ronson featuring Bruno Mars
+year is 2014
+track is 6
+song is music/Triple J Hottest 100, 2014/7 - Gold - Chet Faker.mp3
+title is Gold
+artist is Chet Faker
+year is 2014
+track is 7
+song is music/Triple J Hottest 100, 2014/8 - 1998 - Chet Faker.mp3
+title is 1998
+artist is Chet Faker
+year is 2014
+track is 8
+song is music/Triple J Hottest 100, 2014/9 - Chandelier - Sia.mp3
+title is Chandelier
+artist is Sia
+year is 2014
+track is 9
+album name is: Triple J Hottest 100, 2015
+song is music/Triple J Hottest 100, 2015/1 - Hoops - The Rubens.mp3
+title is Hoops
+artist is The Rubens
+year is 2015
+track is 1
+song is music/Triple J Hottest 100, 2015/10 - Magnets - Disclosure featuring Lorde.mp3
+title is Magnets
+artist is Disclosure featuring Lorde
+year is 2015
+track is 10
+song is music/Triple J Hottest 100, 2015/2 - King Kunta - Kendrick Lamar.mp3
+title is King Kunta
+artist is Kendrick Lamar
+year is 2015
+track is 2
+song is music/Triple J Hottest 100, 2015/3 - Lean On - Major Lazer & DJ Snake featuring MØ.mp3
+title is Lean On
+artist is Major Lazer & DJ Snake featuring MØ
+year is 2015
+track is 3
+song is music/Triple J Hottest 100, 2015/4 - The Less I Know the Better - Tame Impala.mp3
+title is The Less I Know the Better
+artist is Tame Impala
+year is 2015
+track is 4
+song is music/Triple J Hottest 100, 2015/5 - Let It Happen - Tame Impala.mp3
+title is Let It Happen
+artist is Tame Impala
+year is 2015
+track is 5
+song is music/Triple J Hottest 100, 2015/6 - The Trouble with Us - Marcus Marr & Chet Faker.mp3
+title is The Trouble with Us
+artist is Marcus Marr & Chet Faker
+year is 2015
+track is 6
+song is music/Triple J Hottest 100, 2015/7 - Do You Remember - Jarryd James.mp3
+title is Do You Remember
+artist is Jarryd James
+year is 2015
+track is 7
+song is music/Triple J Hottest 100, 2015/8 - The Buzz - Hermitude featuring Mataya & Young Tapz.mp3
+title is The Buzz
+artist is Hermitude featuring Mataya & Young Tapz
+year is 2015
+track is 8
+song is music/Triple J Hottest 100, 2015/9 - Can't Feel My Face - The Weeknd.mp3
+title is Can't Feel My Face
+artist is The Weeknd
+year is 2015
+track is 9
+album name is: Triple J Hottest 100, 2016
+song is music/Triple J Hottest 100, 2016/1 - Never Be like You - Flume featuring Kai.mp3
+title is Never Be like You
+artist is Flume featuring Kai
+year is 2016
+track is 1
+song is music/Triple J Hottest 100, 2016/10 - Starboy - The Weeknd featuring Daft Punk.mp3
+title is Starboy
+artist is The Weeknd featuring Daft Punk
+year is 2016
+track is 10
+song is music/Triple J Hottest 100, 2016/2 - Adore - Amy Shark.mp3
+title is Adore
+artist is Amy Shark
+year is 2016
+track is 2
+song is music/Triple J Hottest 100, 2016/3 - Jungle - Tash Sultana.mp3
+title is Jungle
+artist is Tash Sultana
+year is 2016
+track is 3
+song is music/Triple J Hottest 100, 2016/4 - 1955 - Hilltop Hoods featuring Montaigne and Tom Thum.mp3
+title is 1955
+artist is Hilltop Hoods featuring Montaigne and Tom Thum
+year is 2016
+track is 4
+song is music/Triple J Hottest 100, 2016/5 - Redbone - Childish Gambino.mp3
+title is Redbone
+artist is Childish Gambino
+year is 2016
+track is 5
+song is music/Triple J Hottest 100, 2016/6 - Believe (Like a Version) - DMA's.mp3
+title is Believe (Like a Version)
+artist is DMA's
+year is 2016
+track is 6
+song is music/Triple J Hottest 100, 2016/7 - Papercuts - Illy featuring Vera Blue.mp3
+title is Papercuts
+artist is Illy featuring Vera Blue
+year is 2016
+track is 7
+song is music/Triple J Hottest 100, 2016/8 - Say It - Flume featuring Tove Lo.mp3
+title is Say It
+artist is Flume featuring Tove Lo
+year is 2016
+track is 8
+song is music/Triple J Hottest 100, 2016/9 - Stranger - Peking Duk featuring Elliphant.mp3
+title is Stranger
+artist is Peking Duk featuring Elliphant
+year is 2016
+track is 9
